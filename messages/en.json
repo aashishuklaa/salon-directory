@@ -1,0 +1,285 @@
+{
+  "meta": {
+    "title": "TrimCircle — Salons near you in Agra: barbers, parlours, kids' and bridal",
+    "description": "Find a good salon near you in Agra. Barbers, beauty parlours, kids' haircuts and bridal makeup with real prices, real photos and today's timings. Free, no login."
+  },
+  "common": {
+    "skip": "Skip to content",
+    "examplePhoto": "Example photo",
+    "sample": "Sample",
+    "from": "from {price}",
+    "language": "Language",
+    "chooseLanguage": "Choose language",
+    "comingSoon": "Coming soon",
+    "menu": "Menu",
+    "close": "Close"
+  },
+  "nav": {
+    "services": "Services",
+    "how": "How it works",
+    "looks": "Looks of Agra",
+    "salons": "Salons near you",
+    "owners": "For salon owners",
+    "listCta": "List your salon free"
+  },
+  "intro": {
+    "loading": "Finding salons near you"
+  },
+  "hero": {
+    "lines": [
+      "Find a good salon",
+      "near *you*."
+    ],
+    "sub": "Barbers, beauty parlours, kids' cuts and bridal artists, with real prices and real photos from salons in your own colony.",
+    "searchLabel": "Area or pincode",
+    "placeholder": "Kamla Nagar or 282005",
+    "nearMe": "Near me",
+    "submit": "Search salons",
+    "popular": "Popular in Agra",
+    "trust": [
+      "Free for families",
+      "No login needed",
+      "Real prices, real photos"
+    ],
+    "badge": "Salons near you · Agra · ",
+    "locating": "Finding your location…",
+    "located": "Showing salons near your location.",
+    "denied": "We couldn't get your location. Type your area or pincode instead.",
+    "empty": "Type your area name or a 6-digit pincode.",
+    "badPincode": "A pincode has 6 digits, like 282005.",
+    "searching": "Showing salons near {query}.",
+    "eyebrow": "Agra's salon directory",
+    "whatLabel": "Service",
+    "whatAll": "All services",
+    "browse": "Browse by category",
+    "searchingCat": "Showing {cat} near you.",
+    "kicker": "Find your salon in Agra",
+    "lines2": [
+      "A good salon. Right ",
+      "*near you.*"
+    ],
+    "subLines": [
+      "Barbers, beauty parlours and kids' cuts.",
+      "Compare prices and find your next salon."
+    ],
+    "popularShort": "Popular",
+    "pause": "Pause background video",
+    "play": "Play background video"
+  },
+  "areas": [
+    "Kamla Nagar",
+    "Sanjay Place",
+    "Dayal Bagh",
+    "Sikandra",
+    "Tajganj",
+    "Shahganj",
+    "Belanganj",
+    "Lohamandi",
+    "Civil Lines",
+    "Khandari",
+    "Agra Cantt",
+    "Raja ki Mandi"
+  ],
+  "statement": "Every colony in Agra has a salon someone swears by. TrimCircle brings them together, with real prices, real photos and today's timings, so you can choose in a minute and walk in with confidence.",
+  "categories": {
+    "title": "For everyone in the *family*",
+    "sub": "From a quick trim before school to the big day, find the right hands for it.",
+    "cta": "See salons",
+    "items": {
+      "men": {
+        "name": "Men's barbers",
+        "desc": "Haircut, beard, shave, head massage",
+        "card": "Men's barbers"
+      },
+      "women": {
+        "name": "Beauty parlours",
+        "desc": "Threading, facials, hair spa, waxing",
+        "card": "Beauty parlours"
+      },
+      "kids": {
+        "name": "Kids' haircuts",
+        "desc": "Patient barbers, quick cuts, no tears",
+        "card": "Kids' haircuts"
+      },
+      "bridal": {
+        "name": "Bridal and party makeup",
+        "desc": "Trials, home visits, family packages",
+        "card": "Bridal"
+      },
+      "unisex": {
+        "name": "Unisex salons",
+        "desc": "Colour, smoothening and styling for all",
+        "card": "Unisex salons"
+      },
+      "spa": {
+        "name": "Spa and massage",
+        "desc": "Head, foot and full-body massage",
+        "card": "Spa"
+      }
+    },
+    "kicker": "For everyone",
+    "heading": "What are you looking for?",
+    "viewAll": "View all services"
+  },
+  "how": {
+    "title": "Pick a salon in three easy steps",
+    "steps": [
+      {
+        "title": "Tell us where you are",
+        "body": "Type your area or pincode, or tap Near me. Salons closest to you show up first.",
+        "short": "Type your area or pincode, or tap Near me."
+      },
+      {
+        "title": "Compare real prices and photos",
+        "body": "See what a haircut, facial or bridal package actually costs, with photos from the salon itself.",
+        "short": "See real prices and photos from each salon."
+      },
+      {
+        "title": "Call, WhatsApp or just walk in",
+        "body": "Check today's timings and any offer, then call or message the salon directly. No booking fee.",
+        "short": "Call or WhatsApp the salon. No booking fee."
+      }
+    ],
+    "kicker": "How it works"
+  },
+  "looks": {
+    "title": "Looks of *Agra*",
+    "sub": "Fresh cuts and styles from salons around the city. Find a look you like, then find who made it.",
+    "hintTouch": "Swipe to see more",
+    "hintScroll": "Keep scrolling",
+    "items": [
+      {
+        "name": "Low fade, textured top",
+        "salon": "Sharp Edge Barbers",
+        "area": "Kamla Nagar"
+      },
+      {
+        "name": "Soft layers with curtain bangs",
+        "salon": "Gulmohar Beauty Studio",
+        "area": "Dayal Bagh"
+      },
+      {
+        "name": "Classic side part and beard shape",
+        "salon": "Nawab Hair Salon",
+        "area": "Shahganj"
+      },
+      {
+        "name": "Kids' crew cut",
+        "salon": "Little Stars Kids Salon",
+        "area": "Sanjay Place"
+      },
+      {
+        "name": "Bridal bun with fresh mogra",
+        "salon": "Shringaar Bridal Lounge",
+        "area": "Civil Lines"
+      },
+      {
+        "name": "Global colour, warm brown",
+        "salon": "Studio Eleven Unisex",
+        "area": "Sikandra"
+      }
+    ]
+  },
+  "salons": {
+    "title": "Salons near *you*",
+    "sub": "Sample salons around Kamla Nagar, Agra.",
+    "filters": {
+      "all": "All",
+      "open": "Open now",
+      "men": "Men",
+      "women": "Women",
+      "kids": "Kids",
+      "bridal": "Bridal"
+    },
+    "filterLabel": "Filter salons",
+    "openNow": "Open now",
+    "opensAt": "Opens at {time}",
+    "distance": "{km} km away",
+    "call": "Call",
+    "whatsapp": "WhatsApp",
+    "count": "{count, plural, one {# salon} other {# salons}}",
+    "empty": "No salons match this right now. Try All, or search another area.",
+    "showAll": "Show all",
+    "seeAll": "See all salons in Agra",
+    "deals": {
+      "firstVisit": "20% off first visit",
+      "kidsFree": "Free kids' cut with dad's haircut",
+      "bridalTrial": "Free bridal trial",
+      "weekday": "Weekday hair spa ₹399"
+    },
+    "tags": {
+      "men": "Men",
+      "women": "Women",
+      "kids": "Kids",
+      "bridal": "Bridal",
+      "unisex": "Unisex"
+    }
+  },
+  "owners": {
+    "title": "Own a salon? Get your *free* page on WhatsApp.",
+    "sub": "No app, no website, no fee. Send us a message and your salon can be online today, with your prices, photos and timings. Change anything later, just by sending a WhatsApp.",
+    "steps": [
+      "Send “Hi” to TrimCircle on WhatsApp",
+      "Share your photos, prices and timings",
+      "Your page goes live for families nearby"
+    ],
+    "facts": [
+      {
+        "value": "0",
+        "prefix": "₹",
+        "suffix": "",
+        "label": "to list your salon"
+      },
+      {
+        "value": "2",
+        "prefix": "",
+        "suffix": " min",
+        "label": "to set it up"
+      },
+      {
+        "value": "24",
+        "prefix": "",
+        "suffix": "×7",
+        "label": "update by message"
+      }
+    ],
+    "cta": "Get my free page on WhatsApp",
+    "ctaNote": "We reply in Hindi or English.",
+    "waText": "Hi TrimCircle, I want a free page for my salon.",
+    "chatName": "TrimCircle",
+    "chatStatus": "online",
+    "chat": [
+      {
+        "from": "me",
+        "text": "Hi, I want to list my salon"
+      },
+      {
+        "from": "bot",
+        "text": "Namaste! What is your salon's name and area?"
+      },
+      {
+        "from": "me",
+        "text": "Royal Cuts, Kamla Nagar"
+      },
+      {
+        "from": "bot",
+        "text": "Great. Send 3–5 photos and your price list."
+      },
+      {
+        "from": "bot",
+        "text": "Done. Your page is live, and families near Kamla Nagar can find you now."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Salons near you. Starting in Agra, coming to your city.",
+    "explore": "Explore",
+    "owners": "For salon owners",
+    "ownersLink": "Free page on WhatsApp",
+    "languages": "Languages",
+    "rights": "© {year} TrimCircle. Made in Agra.",
+    "photosNote": "Photos and salons shown are examples until our partner salons go live.",
+    "top": "Back to top",
+    "moreLangs": "+{count} more Indian languages coming soon"
+  }
+}
