@@ -1,10 +1,3 @@
-// Use the transparent supplied logo; keep the vector mark for small decorative uses.
-import fs from 'node:fs';
-import path from 'node:path';
-
-const RAW = fs.readFileSync(path.join(process.cwd(), 'public/assets/img/trimcircle-horizontal.svg'), 'utf8');
-const MARK_G = RAW.match(/<g [\s\S]*?<\/g>/)[0];
-
 // Two files: green-and-terracotta for light pages, cream-and-terracotta for dark. CSS shows the one that fits the theme.
 export function Logo({ className = 'logo', label }: { className?: string; label: string }) {
   return (
@@ -16,5 +9,12 @@ export function Logo({ className = 'logo', label }: { className?: string; label:
 }
 
 export function Mark({ className }: { className: string }) {
-  return <svg className={className} viewBox="26 22 212 200" aria-hidden="true" focusable="false" dangerouslySetInnerHTML={{ __html: MARK_G }} />;
+  return (
+    <svg className={className} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75"
+      strokeLinecap="round" strokeLinejoin="round" aria-hidden="true" focusable="false">
+      <circle cx="6" cy="6" r="2.6" />
+      <circle cx="6" cy="18" r="2.6" />
+      <path d="M8.1 7.6L20 18M8.1 16.4L20 6" />
+    </svg>
+  );
 }
