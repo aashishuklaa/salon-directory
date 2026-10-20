@@ -3,7 +3,7 @@ import type { ReactNode } from 'react';
 import { READY, DEFAULT_LOCALE, byCode } from '@/i18n/locales.mjs';
 import { CONFIG } from '@/data/home.mjs';
 import { getT } from '@/lib/i18n';
-import '@/styles/fonts.css';
+//import '@/styles/fonts.css';
 
 const pageUrl = (code: string) => `${CONFIG.siteUrl}/${code === DEFAULT_LOCALE ? '' : code + '/'}`;
 
