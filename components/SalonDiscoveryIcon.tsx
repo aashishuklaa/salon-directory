@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useRef } from 'react';
-import animationData from '@/public/assets/animations/salon-scissors.json';
+//import animationData from '@/public/assets/animations/salon-scissors.json';
 
 export default function SalonDiscoveryIcon() {
   const container = useRef<HTMLSpanElement>(null);
