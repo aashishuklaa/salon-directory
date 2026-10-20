@@ -5,7 +5,7 @@ import { money } from '@/i18n/t.mjs';
 import { CONFIG, SALONS } from '@/data/home.mjs';
 import { getT, localeHref } from '@/lib/i18n';
 import { I } from './icons';
-import '@/styles/site.css';
+//import '@/styles/site.css';
 import { Logo } from './Logo';
 import { ThemeToggle, themeToggleScript } from './ThemeToggle';
 
