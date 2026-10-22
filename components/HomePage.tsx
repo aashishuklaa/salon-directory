@@ -11,7 +11,7 @@ import { CityLandmark } from './CityLandmark';
 import { ThemeToggle } from './ThemeToggle';
 import SiteEffects from './SiteEffects';
 import type { Runtime } from '@/lib/site-effects';
-
+import '@/styles/home.css';
 const pad = (n: number) => String(n).padStart(2, '0');
 // "*words*" in messages mark the accent phrase of a heading.
 const Emph = ({ text }: { text: string }) => (
